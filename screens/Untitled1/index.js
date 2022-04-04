@@ -9,8 +9,8 @@ const Untitled1 = () => {
     height: '100%'
   }}>
       <View style={{
-      left: 21,
-      top: 102,
+      left: 30,
+      top: 91,
       position: "absolute",
       height: 60,
       width: 140,
@@ -18,8 +18,8 @@ const Untitled1 = () => {
       borderRadius: 0,
       color: "#777777"
     }}></View><View style={{
-      left: 36,
-      top: 228,
+      left: 30,
+      top: 167,
       position: "absolute",
       height: 60,
       width: 140,
@@ -29,6 +29,15 @@ const Untitled1 = () => {
     }}></View><View style={{
       left: 34,
       top: 19,
+      position: "absolute",
+      height: 60,
+      width: 140,
+      backgroundColor: "#E4E4E4",
+      borderRadius: 0,
+      color: "#777777"
+    }}></View><View style={{
+      left: 22,
+      top: 252,
       position: "absolute",
       height: 60,
       width: 140,
